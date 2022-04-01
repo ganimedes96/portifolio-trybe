@@ -11,9 +11,11 @@ body{
     font-family: Ubuntu ;
 }
 header{
-    height:90px;
+    max-width:1200px;
     margin: 0 auto;
     max-width:1200px;
+
+    height:90px;
     padding: 1rem 6rem
 }
 
@@ -39,7 +41,9 @@ nav iframe{
 
 
 main{
-    margin-top:10rem ;
+    
+    max-width:1200px;
+    margin: 10rem  auto;
 }
 
 section{
