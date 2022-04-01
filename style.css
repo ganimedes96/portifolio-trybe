@@ -5,16 +5,18 @@ body{
     color: #e3dede;
     font-family: Ubuntu ;
 }
-
+header{
+    height:90px;
+    margin: 0 auto;
+    max-width:1200px;
+    padding: 1rem 6rem
+}
 
 nav{
 
     display: flex;
     align-items: center;
     justify-content: space-between;
-    max-width:1200px;
-    height:90px;
-    padding: 1rem 6rem
 }
 
 nav ul{
